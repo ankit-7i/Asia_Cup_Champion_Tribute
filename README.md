@@ -2,7 +2,6 @@
 
 Celebrate India’s historic victory in the **2025 Asia Cup** with this vibrant, interactive website dedicated to our champions! 🎉  
 
-
 This project is a small but elegant showcase built with **pure HTML, CSS, and JavaScript**, hosted on **Netlify** and stored in **GitHub**.
 
 ---
